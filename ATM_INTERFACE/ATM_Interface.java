@@ -237,7 +237,8 @@ class ATM_Interface {
                     System.exit(0);
                 }
             }
-        } else {
+        }
+         else {
             System.out.println("\nThank you for using the ATM. Goodbye!");
             System.exit(0);
         }
